@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pca:home|Door43 (pca)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pca|d43-pca repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pca/archive/master.zip|d43-pca.zip]]
+
+**Recent Changes**
+{{changes>ns = pca}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pca|Ethnologue data]]
+
